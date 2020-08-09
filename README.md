@@ -20,7 +20,7 @@
 |<img src="https://github.com/srihernogo/srihernogo/blob/master/img/logo-gundar.png" height="90px"></a>|<img src="https://github.com/srihernogo/srihernogo/blob/master/img/logo-mmc2.png" height="90px"></a>|<img src="https://github.com/srihernogo/srihernogo/blob/master/img/bg-mmc.jpg" height="100px"></a>|
 
 
-#### Development Stack;
+- Development Stack;
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=ffffff)
 ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=ffffff)
 ![Android](http://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=ffffff)
