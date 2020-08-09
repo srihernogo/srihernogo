@@ -1,7 +1,7 @@
 ## Hi there, I'm Samujjwaal 👋🏼👨🏻‍💻
 [![Github](https://img.shields.io/github/followers/srihernogo?label=Follow&style=social)](https://github.com/srihernogo)
 [![Instagram](https://img.shields.io/badge/-@bayusrihernogo-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/bayusrihernogo/)](https://www.instagram.com/bayusrihernogo/)
-[![Linkedin](https://img.shields.io/badge/-Sarthak%20Bharadwaj-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sarthak-bharadwaj-8552b5110/)](https://www.linkedin.com/in/sarthak-bharadwaj-8552b5110/)
+[![Linkedin](https://img.shields.io/badge/-Bayusrihernogo-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bayusrihernogo/)](https://www.linkedin.com/in/bayusrihernogo/)
 [![Mail](https://img.shields.io/badge/-sarthakbh321@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/sarthak-bharadwaj-8552b5110/)](mailto:sarthakbh321@gmail.com)
 
 ## About me :mortar_board:
