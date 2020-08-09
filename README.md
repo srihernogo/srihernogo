@@ -7,7 +7,7 @@
 [![Github](https://img.shields.io/github/followers/srihernogo?label=Follow&style=social)](https://github.com/srihernogo)
 
 
-## About me
+## About me :sunglasses:
 - 👨🏻‍💻 I'm currently working as Software Engineering;
 - 🌱 I’m currently learning [Machine Learning](https://www.coursera.org/learn/machine-learning) and Functional programming;
 - 👯 I’m looking to collaborate on any Open Source project which seems interesting or useful;
