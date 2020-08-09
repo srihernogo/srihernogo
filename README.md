@@ -6,13 +6,12 @@
 [![Github](https://img.shields.io/github/followers/srihernogo?label=Follow&style=social)](https://github.com/srihernogo)
 
 
-## About me
+## About me ![Profile Views](https://komarev.com/ghpvc/?username=srihernogo&color=blue)
 - 👨🏻‍💻 I'm currently working as Software Engineering
 - 🌱 I’m currently learning [Machine Learning](https://www.coursera.org/learn/machine-learning) and Functional programming
 - 👯 I’m looking to collaborate on any Open Source project which seems interesting or useful
 - 📫 How to reach me: Use any of the [badges] above
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
-![Profile Views](https://komarev.com/ghpvc/?username=srihernogo&color=blue)
 
 #### Development Stack ~
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=ffffff)
