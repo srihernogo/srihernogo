@@ -15,11 +15,9 @@
 - 💬 Ask me about anything, I am happy to help;
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
 
-### Working
-
 |University|Organizer|Organizer|
 |---------|---------|------|
-||<img src="https://github.com/srihernogo/profiles/blob/master/img/logo-gundar.png" height="100px"></a><img src="https://github.com/srihernogo/profiles/blob/master/img/logo-mmc.png" height="90px"></a>|<img src="https://github.com/srihernogo/profiles/blob/master/img/bg-mmc.jpg" height="100px"></a>|
+|<img src="https://github.com/srihernogo/profiles/blob/master/img/logo-gundar.png" height="100px"></a>|<img src="https://github.com/srihernogo/profiles/blob/master/img/logo-mmc.png" height="90px"></a>|<img src="https://github.com/srihernogo/profiles/blob/master/img/bg-mmc.jpg" height="100px"></a>|
 
 
 #### Development Stack;
