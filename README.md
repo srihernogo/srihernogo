@@ -58,9 +58,9 @@
 ## Interesting stats
 <a href="https://samujjwaal.tech/"><img src="https://github.com/srihernogo/srihernogo/blob/master/img/coffee.png" align="right" height="275" /></a>
 
-![Srihernogo's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=srihernogo&theme=radical&hide=glsl,python)
-
 ![Srihernogo's stats](https://github-readme-stats.vercel.app/api?username=srihernogo&show_icons=true)
+
+![Srihernogo's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=srihernogo)
 
 ```text
 🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
