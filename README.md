@@ -1,14 +1,14 @@
-## Hi there, nice to meet you 👋🏼
+### Hi there, nice to meet you 👋🏼
 [![Linkedin](https://img.shields.io/badge/-Bayu%20Sri%20Hernogo-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bayusrihernogo/)](https://www.linkedin.com/in/bayusrihernogo/)
 [![Instagram](https://img.shields.io/badge/-@bayusrihernogo-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/bayusrihernogo/)](https://www.instagram.com/bayusrihernogo/)
 [![Stackoverflow](https://img.shields.io/badge/-bayusrihernogo-orange?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/9771468/bayu-sri-hernogo/)](https://stackoverflow.com/users/9771468/bayu-sri-hernogo)
 [![Mail](https://img.shields.io/badge/-srihernogo@gmail.com-gray?style=flat-square&logo=gmail&logoColor=white&link=https://www.linkedin.com/in/bayusrihernogo/)](mailto:srihernogo@gmail.com)
 [![Github](https://img.shields.io/github/followers/srihernogo?label=Follow&style=social)](https://github.com/srihernogo)
 
-## About me 👨🏻‍💻
+### About me 👨🏻‍💻
 Currently working as Software Engineering at Mitsubishi Motors
 
-## My Tech Stack :computer:
+### My Tech Stack :computer:
 #### Competitive Programming
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
@@ -18,7 +18,7 @@ Currently working as Software Engineering at Mitsubishi Motors
 ![Rancher](http://img.shields.io/badge/-Rancher-0075A8?style=flat-square&logo=rancher&logoColor=ffffff)
 ![NGINX](http://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=ffffff)
 
-- **Frontend**
+#### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -27,12 +27,12 @@ Currently working as Software Engineering at Mitsubishi Motors
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
 
-- **Database**
+#### Database
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Oracle Database](http://img.shields.io/badge/-Oracle-DD0031?style=flat-square&logo=oracle)
 ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 
-- **Others**
+#### Others
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -45,12 +45,12 @@ Currently working as Software Engineering at Mitsubishi Motors
 ![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
-## What I want to do next :thinking:
+### What I want to do next :thinking:
 - Backend Development (to become a Full-Stack developer)
 - At least delve into AI and ML.
 - Unlock the secret to the universe :rofl:
 
-### Interesting stats
+#### Interesting stats
 
 ![Sarthak's stats](https://github-readme-stats.vercel.app/api?username=sarthakbh321&show_icons=true)
 
