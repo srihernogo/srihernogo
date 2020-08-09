@@ -60,9 +60,5 @@
 🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
 ```
 
-
-Thanks for stopping by! 😁
-
-
 ⭐️ From [Srihernogo](https://github.com/srihernogo)
 ![Profile Views](https://komarev.com/ghpvc/?username=srihernogo&color=blue)
