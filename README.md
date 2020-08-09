@@ -22,8 +22,8 @@
 
 - Development Stack;
 
-![Java](http://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=ffffff)
-![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=ffffff)
+-- ![Java](http://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=ffffff)
+-- ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=ffffff)
 ![Android](http://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=ffffff)
 ![Maven](http://img.shields.io/badge/-Maven-1565c0?style=flat&logo=apache-maven)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
