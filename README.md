@@ -23,7 +23,7 @@
 
 ##### Development Stack;
 
-|(http://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=ffffff)|Organizer|Mentor|
+|![Java](http://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=ffffff)|Organizer|Mentor|
 |---------|---------|------|
 
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=ffffff)
