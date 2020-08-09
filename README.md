@@ -48,10 +48,10 @@
 ![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=ffffff)
 
-### Interesting stats
+## Interesting stats
 <a href="https://samujjwaal.tech/"><img src="https://github.com/srihernogo/profiles/blob/master/img/coffee.png" align="right" height="275" /></a>
 
-![Sarthak's stats](https://github-readme-stats.vercel.app/api?username=srihernogo&show_icons=true)
+![Srihernogo's stats](https://github-readme-stats.vercel.app/api?username=srihernogo&show_icons=true)
 
 ```text
 🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
