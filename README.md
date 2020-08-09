@@ -4,7 +4,7 @@
 [![Stackoverflow](https://img.shields.io/badge/-bayusrihernogo-orange?style=flat&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/9771468/bayu-sri-hernogo/)](https://stackoverflow.com/users/9771468/bayu-sri-hernogo)
 [![Mail](https://img.shields.io/badge/-srihernogo@gmail.com-gray?style=flat&logo=gmail&logoColor=white&link=https://www.linkedin.com/in/bayusrihernogo/)](mailto:srihernogo@gmail.com)
 [![Github](https://img.shields.io/github/followers/srihernogo?label=Follow&style=social)](https://github.com/srihernogo)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=srihernogo.srihernogo)
+![Profile Views](https://komarev.com/ghpvc/?username=srihernogo&color=blue)
 
 ## About me
 - 👨🏻‍💻 I'm currently working as Software Engineering
@@ -49,6 +49,7 @@
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=ffffff)
 
 ### Interesting stats
+<a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/coffee.png" align="right" height="275" /></a>
 
 ![Sarthak's stats](https://github-readme-stats.vercel.app/api?username=srihernogo&show_icons=true)
 
