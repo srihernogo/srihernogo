@@ -55,8 +55,6 @@
 ![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=ffffff)
 
-![Srihernogo's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=srihernogo)
-
 ## Interesting stats
 <a href="https://samujjwaal.tech/"><img src="https://github.com/srihernogo/srihernogo/blob/master/img/coffee.png" align="right" height="275" /></a>
 
