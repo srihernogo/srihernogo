@@ -7,7 +7,7 @@
 [![Github](https://img.shields.io/github/followers/srihernogo?label=Follow&style=social)](https://github.com/srihernogo)
 
 
-## :sunglasses: About me
+## About me :sunglasses:
 - 👨🏻‍💻 I'm currently working as Software Engineering;
 - 🌱 I’m currently learning [Machine Learning](https://www.coursera.org/learn/machine-learning) and Functional programming;
 - 👯 I’m looking to collaborate on any Open Source project which seems interesting or useful;
@@ -55,7 +55,7 @@
 ![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=ffffff)
 
-## 🏆 Github Status
+## Github Status 🏆
 <a href="https://samujjwaal.tech/"><img src="https://github.com/srihernogo/srihernogo/blob/master/img/coffee.png" align="right" height="275" /></a>
 
 ![Srihernogo's stats](https://github-readme-stats.vercel.app/api?username=srihernogo&show_icons=true)
