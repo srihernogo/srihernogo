@@ -7,6 +7,10 @@
 
 ## About me 👨🏻‍💻
 Currently working as Software Engineering at Mitsubishi Motors
+- 🌱 I’m currently learning [Machine Learning](https://www.coursera.org/learn/machine-learning) and Functional programming
+- 👯 I’m looking to collaborate on any Open Source project which seems interesting or useful
+- 📫 How to reach me: Use any of the [badges] above
+- 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
 
 #### Development Stack:
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
