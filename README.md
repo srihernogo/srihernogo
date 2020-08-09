@@ -1,5 +1,4 @@
-**### Hi there, nice to meet you 👋🏼**
----
+## Hi there, nice to meet you 👋🏼
 [![Linkedin](https://img.shields.io/badge/-Bayu%20Sri%20Hernogo-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bayusrihernogo/)](https://www.linkedin.com/in/bayusrihernogo/)
 [![Instagram](https://img.shields.io/badge/-@bayusrihernogo-red?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/bayusrihernogo/)](https://www.instagram.com/bayusrihernogo/)
 [![Stackoverflow](https://img.shields.io/badge/-bayusrihernogo-orange?style=flat&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/9771468/bayu-sri-hernogo/)](https://stackoverflow.com/users/9771468/bayu-sri-hernogo)
@@ -14,7 +13,6 @@
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
 
 **I'm an early 🐤** 
-
 ```text
 🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
 🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
