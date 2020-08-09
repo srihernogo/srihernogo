@@ -17,9 +17,9 @@
 
 ### Working
 
-|Organizer|Organizer|University|
+|University|Organizer|Organizer|
 |---------|---------|------|
-|<img src="https://github.com/srihernogo/profiles/blob/master/img/logo-mmc.png" height="90px"></a>|<img src="https://github.com/srihernogo/profiles/blob/master/img/bg-mmc.jpg" height="100px"></a>|<img src="https://github.com/srihernogo/profiles/blob/master/img/logo-gundar.png" height="100px"></a>|
+||<img src="https://github.com/srihernogo/profiles/blob/master/img/logo-gundar.png" height="100px"></a><img src="https://github.com/srihernogo/profiles/blob/master/img/logo-mmc.png" height="90px"></a>|<img src="https://github.com/srihernogo/profiles/blob/master/img/bg-mmc.jpg" height="100px"></a>|
 
 
 #### Development Stack;
