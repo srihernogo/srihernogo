@@ -17,7 +17,7 @@
 
 |University|Organizer|Organizer|
 |---------|---------|------|
-|<img src="https://github.com/srihernogo/profiles/blob/master/img/logo-gundar.png" height="100px"></a>|<img src="https://github.com/srihernogo/profiles/blob/master/img/logo-mmc.png" height="90px"></a>|<img src="https://github.com/srihernogo/profiles/blob/master/img/bg-mmc.jpg" height="100px"></a>|
+|<img src="https://github.com/srihernogo/srihernogo/blob/master/img/logo-gundar.png" height="100px"></a>|<img src="https://github.com/srihernogo/srihernogo/blob/master/img/logo-mmc.png" height="90px"></a>|<img src="https://github.com/srihernogo/srihernogo/blob/master/img/bg-mmc.jpg" height="100px"></a>|
 
 
 #### Development Stack;
@@ -56,7 +56,7 @@
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=ffffff)
 
 ## Interesting stats
-<a href="https://samujjwaal.tech/"><img src="https://github.com/srihernogo/profiles/blob/master/img/coffee.png" align="right" height="275" /></a>
+<a href="https://samujjwaal.tech/"><img src="https://github.com/srihernogo/srihernogo/blob/master/img/coffee.png" align="right" height="275" /></a>
 
 ![Srihernogo's stats](https://github-readme-stats.vercel.app/api?username=srihernogo&show_icons=true)
 
