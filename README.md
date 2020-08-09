@@ -8,7 +8,7 @@
 ## About me 👨🏻‍💻
 Currently working as Software Engineering at Mitsubishi Motors
 
-#### Tech Stack: :computer:
+#### Development Stack:
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
 ![Android](http://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
@@ -44,16 +44,11 @@ Currently working as Software Engineering at Mitsubishi Motors
 ![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
-## What I want to do next :thinking:
-- Backend Development (to become a Full-Stack developer)
-- At least delve into AI and ML.
-- Unlock the secret to the universe :rofl:
-
 ### Interesting stats
 
-![Sarthak's stats](https://github-readme-stats.vercel.app/api?username=sarthakbh321&show_icons=true)
+![Sarthak's stats](https://github-readme-stats.vercel.app/api?username=srihernogo&show_icons=true)
 
 Thanks for stopping by! 😁
 
 
-⭐️ From [Sarthakbh321](https://github.com/Sarthakbh321)
+⭐️ From [Srihernogo](https://github.com/srihernogo)
