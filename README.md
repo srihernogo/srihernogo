@@ -17,9 +17,9 @@
 
 ### Working
 
-|Organizer|Organizer|Mentor|
+|Organizer|Organizer|University|
 |---------|---------|------|
-|<img src="https://github.com/srihernogo/profiles/blob/master/img/logo-mmc.png" height="85px"></a>|<img src="https://github.com/srihernogo/profiles/blob/master/img/bg-mmc.jpg" height="100px"></a>|<a href="https://www.meetup.com/tfugmumbai/"><img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/communities/tfug_mumbai.png" height="100px"></a>|
+|<img src="https://github.com/srihernogo/profiles/blob/master/img/logo-mmc.png" height="90px"></a>|<img src="https://github.com/srihernogo/profiles/blob/master/img/bg-mmc.jpg" height="100px"></a>|<img src="https://github.com/srihernogo/profiles/blob/master/img/logo-gundar.png" height="100px"></a>|
 
 
 #### Development Stack;
