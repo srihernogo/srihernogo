@@ -12,7 +12,7 @@
 - 📫 How to reach me: Use any of the [badges] above
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
 
-#### Development Stack:
+#### Development Stack ~
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=ffffff)
 ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=ffffff)
 ![Android](http://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=ffffff)
@@ -21,7 +21,7 @@
 ![Rancher](http://img.shields.io/badge/-Rancher-0075A8?style=flat&logo=rancher&logoColor=ffffff)
 ![NGINX](http://img.shields.io/badge/-NGINX-269539?style=flat&logo=nginx&logoColor=ffffff)
 
-#### Frontend:
+#### Frontend ~
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -30,12 +30,12 @@
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat&logo=sass&logoColor=ffffff)
 ![Photoshop](http://img.shields.io/badge/-Photoshop-26C9FF?style=flat&logo=adobe-photoshop&logoColor=ffffff)
 
-#### Database:
+#### Database ~
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
 ![Oracle Database](http://img.shields.io/badge/-Oracle-DD0031?style=flat&logo=oracle)
 ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=ffffff)
 
-#### Others:
+#### Others ~
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
@@ -49,6 +49,8 @@
 
 ### Interesting stats
 
+![Sarthak's stats](https://github-readme-stats.vercel.app/api?username=srihernogo&show_icons=true)
+
 ```text
 🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
 🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
@@ -56,7 +58,6 @@
 🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
 ```
 
-![Sarthak's stats](https://github-readme-stats.vercel.app/api?username=srihernogo&show_icons=true)
 
 Thanks for stopping by! 😁
 
