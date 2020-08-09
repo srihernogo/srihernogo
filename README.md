@@ -12,6 +12,16 @@
 - 📫 How to reach me: Use any of the [badges] above
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
 
+**I'm an early 🐤** 
+
+```text
+🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
+🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
+🌃 Evening    112 commits    █████████░░░░░░░░░░░░░░░░   36.01% 
+🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
+
+```
+
 #### Development Stack:
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=ffffff)
 ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=ffffff)
