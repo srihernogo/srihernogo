@@ -55,7 +55,8 @@
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=ffffff)
 ![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=ffffff)
----
+
+-----
 
 ## Github Status 🏆
 <a href="https://samujjwaal.tech/"><img src="https://github.com/srihernogo/srihernogo/blob/master/img/coffee.png" align="right" height="275" /></a>
