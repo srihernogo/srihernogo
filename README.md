@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/bayusrihernogo/)](https://www.instagram.com/bayusrihernogo/)
 [![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-orange?style=flat&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/9771468/bayu-sri-hernogo/)](https://stackoverflow.com/users/9771468/bayu-sri-hernogo)
 [![Mail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white&link=https://www.linkedin.com/in/bayusrihernogo/)](mailto:srihernogo@gmail.com)
-[![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/)
+[![medium](https://github.com/srihernogo/profiles/blob/master/img/badge/medium.svg)](https://medium.com/)
 [![Github](https://img.shields.io/github/followers/srihernogo?label=Follow&style=social)](https://github.com/srihernogo)
 
 
