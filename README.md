@@ -4,7 +4,7 @@
 [![Stackoverflow](https://img.shields.io/badge/-bayusrihernogo-orange?style=flat&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/9771468/bayu-sri-hernogo/)](https://stackoverflow.com/users/9771468/bayu-sri-hernogo)
 [![Mail](https://img.shields.io/badge/-srihernogo@gmail.com-gray?style=flat&logo=gmail&logoColor=white&link=https://www.linkedin.com/in/bayusrihernogo/)](mailto:srihernogo@gmail.com)
 [![Github](https://img.shields.io/github/followers/srihernogo?label=Follow&style=social)](https://github.com/srihernogo)
-![Profile Views](https://komarev.com/ghpvc/?username=srihernogo&color=blue)
+
 
 ## About me
 - 👨🏻‍💻 I'm currently working as Software Engineering
@@ -12,6 +12,7 @@
 - 👯 I’m looking to collaborate on any Open Source project which seems interesting or useful
 - 📫 How to reach me: Use any of the [badges] above
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
+![Profile Views](https://komarev.com/ghpvc/?username=srihernogo&color=blue)
 
 #### Development Stack ~
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=ffffff)
