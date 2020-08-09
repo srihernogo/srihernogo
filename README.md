@@ -1,5 +1,4 @@
-### Hi there, I'm Srihernogo 👋🏼
------
+## Hi there, I'm Srihernogo 👋🏼
 [![Linkedin](https://img.shields.io/badge/-Bayu%20Sri%20Hernogo-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bayusrihernogo/)](https://www.linkedin.com/in/bayusrihernogo/)
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/bayusrihernogo/)](https://www.instagram.com/bayusrihernogo/)
 [![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-orange?style=flat&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/9771468/bayu-sri-hernogo/)](https://stackoverflow.com/users/9771468/bayu-sri-hernogo)
@@ -8,8 +7,7 @@
 [![Github](https://img.shields.io/github/followers/srihernogo?label=Follow&style=social)](https://github.com/srihernogo)
 
 
-### About me :sunglasses:
------
+## About me :sunglasses:
 - 👨🏻‍💻 I'm currently working as Software Engineering;
 - 🌱 I’m currently learning [Machine Learning](https://www.coursera.org/learn/machine-learning) and Functional programming;
 - 👯 I’m looking to collaborate on any Open Source project which seems interesting or useful;
