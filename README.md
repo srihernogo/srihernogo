@@ -5,8 +5,8 @@
 [![Mail](https://img.shields.io/badge/-srihernogo@gmail.com-gray?style=flat&logo=gmail&logoColor=white&link=https://www.linkedin.com/in/bayusrihernogo/)](mailto:srihernogo@gmail.com)
 [![Github](https://img.shields.io/github/followers/srihernogo?label=Follow&style=social)](https://github.com/srihernogo)
 
-## About me 👨🏻‍💻
-Currently working as Software Engineering at Mitsubishi Motors
+## About me
+- 👨🏻‍💻 I'm currently working as Software Engineering
 - 🌱 I’m currently learning [Machine Learning](https://www.coursera.org/learn/machine-learning) and Functional programming
 - 👯 I’m looking to collaborate on any Open Source project which seems interesting or useful
 - 📫 How to reach me: Use any of the [badges] above
