@@ -1,4 +1,4 @@
-**Hi there, I'm Srihernogo 👋🏼**
+Hi there, I'm Srihernogo 👋🏼
 -----
 
 [![Linkedin](https://img.shields.io/badge/-Bayu%20Sri%20Hernogo-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bayusrihernogo/)](https://www.linkedin.com/in/bayusrihernogo/)
