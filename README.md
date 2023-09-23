@@ -12,7 +12,6 @@
 - 🌱 I’m currently learning [Machine Learning](https://www.coursera.org/learn/machine-learning) and Functional programming;
 - 👯 I’m looking to collaborate on any Open Source project which seems interesting or useful;
 - 📫 How to reach me: Use any of the [badges] above;
-- 💬 Ask me about anything, I am happy to help;
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
 
 |University|Organizer|Organizer|
